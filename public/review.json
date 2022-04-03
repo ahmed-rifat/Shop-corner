@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "shawn mustacchio",
+    "comment": "Looks brand new for a refurbished product. Thank you!",
+    "img": "https://images.unsplash.com/photo-1550682290-d071c75759f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "rate": 5
+  },
+  {
+    "id": 2,
+    "name": "jorge",
+    "comment": "As new , no difference.You have inside certified charger (1500 mAh max charge rate - slow but good for your battery health) and a certified but short cable.Overall satisfaction -excellent, using it second week - good battery life,responsive screen, very good pictures!",
+    "img": "https://images.unsplash.com/photo-1569448634236-16398247262e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "rate": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Marcos",
+    "comment": "Battery around 94%, very clean. Very good condition. The charger can be better. Works with Argentina cell phone carrier",
+    "img": "https://images.unsplash.com/photo-1585237017125-24baf8d7406f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "rate": 4.5
+  },
+  {
+    "id": 4,
+    "name": "Lakin Fletcher",
+    "comment": "Only thing I dislike is the battery life is very bad , my iPhone 11 Pro Max the battery in it would last 3or more days on a full charge but this one doesn’t go one day unless I have It on airplane mode all day ….and my boss doesn’t dig that",
+    "img": "https://images.unsplash.com/photo-1517677129300-07b130802f46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "rate": 5
+  },
+  {
+    "id": 5,
+    "name": "Hazael Muradian",
+    "comment": "I think all iPhones are great phones-long time user here. I specifically wanted a 12 Pro Max; tried the 13 Pro Max from Apple Store & felt it was too heavy. This model just right and has almost all same features as the new 13. Hard to find locally to purchase, and the Renewed Premium is just like a new phone. Battery maximum capacity on it is 99% and body looks flawless! Definitely worth purchasing a Renewed Premium.",
+    "img": "https://images.unsplash.com/photo-1590649880765-91b1956b8276?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "rate": 5
+  },
+  {
+    "id": 6,
+    "name": "ShawnnaxAnne",
+    "comment": "I got exactly what I ordered, so far no complaints, it came clean inside and out and was a breeze to set up. I upgraded from my 7S so the whole thing is a huge upgrade for me.",
+    "img": "https://images.unsplash.com/photo-1508243529287-e21914733111?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "rate": 5
+  }
+]
