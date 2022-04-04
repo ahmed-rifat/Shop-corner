@@ -1,15 +1,21 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import CustomLink from '../CustomLink/CustomLink';
 
 const Header = () => {
     return (
-        <div>
-            <CustomLink to='/home'>HOME</CustomLink>
-            <CustomLink to='/reviews'>REVIEWS</CustomLink>
-            <CustomLink to='/dashboard'>DASHBOARD</CustomLink>
-            <CustomLink to='/blogs'>BLOGS</CustomLink>
-            <CustomLink to='/about'>ABOUT</CustomLink>
+        <div className='flex justify-between p-6 items-center h-16 bg-cyan-300'>
+
+            <div>
+                <h3>Shop-corner</h3>
+            </div>
+            
+            <div className='flex  ml-9'>
+            <CustomLink className='mx-4' to='/home'>HOME</CustomLink>
+            <CustomLink className='mx-4' to='/reviews'>REVIEWS</CustomLink>
+            <CustomLink className='mx-4'  to='/dashboard'>DASHBOARD</CustomLink>
+            <CustomLink className='mx-4' to='/blogs'>BLOGS</CustomLink>
+            <CustomLink className='mx-4' to='/about'>ABOUT</CustomLink>
+            </div>
         </div>
     );
 };
