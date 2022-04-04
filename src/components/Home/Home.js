@@ -19,13 +19,13 @@ const [review, setReview]=useReview();
             </div>
             </div>
 
-            <div>
-              <h1>
+            <div className='mt-44'>
+              <h1 className='font-bold'>
                   Customer review ({review.length})
               </h1>
             </div>
             <div>
-            <button>See all reviews</button>
+            <button className='font-medium'>See all reviews</button>
             </div>
         </div>
     );
