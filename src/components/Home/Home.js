@@ -15,7 +15,7 @@ const navigation =useNavigate();
             <div className='flex justify-center mt-4'>
             <div className='mt-24 mr-20 '>
                 <h1 className='text-4xl font-bold'>Uiisii Hm 12 Super Bass Stereo In Ear-Phone</h1>
-                <p>Superior Sound Performance Compatible with all 3.5mm audio cable jackIn-ear earbud with ergonomic design make you feel comfortable.</p>
+                <p className='mt-8'>Superior Sound Performance Compatible with all 3.5mm audio cable jackIn-ear earbud with ergonomic design make you feel comfortable.</p>
                 <button className="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded mt-8">Live demo</button>
                 
                 

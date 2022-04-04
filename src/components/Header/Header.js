@@ -6,7 +6,7 @@ const Header = () => {
         <div className='flex justify-between p-6 items-center h-16 bg-cyan-300'>
 
             <div>
-            <CustomLink to='/'><h3>Shop-corner</h3></CustomLink>
+            <CustomLink to='/'><h3 className='text-3xl font-bold'>Shop corner</h3></CustomLink>
             </div>
             
             <div className='flex  ml-9'>
