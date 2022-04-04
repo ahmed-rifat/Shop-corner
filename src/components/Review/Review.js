@@ -6,7 +6,7 @@ import useReview from '../../Hooks/useReview';
 const Review = () => {
     const [review,setReview] =useReview();
     return (
-        <div>
+        <div className='grid grid-cols-3'>
             {
                 review.map(comment=> 
                     <div className='p-4'>

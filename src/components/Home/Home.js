@@ -13,15 +13,15 @@ const navigation =useNavigate();
         <div>
 
             <div className='flex justify-center mt-4'>
-            <div className='mt-24'>
-                <h1 className='text-4xl font-bold'>Choose your best phone</h1>
-                <h1 className='text-4xl font-bold'>your best phone</h1>
+            <div className='mt-24 mr-20 '>
+                <h1 className='text-4xl font-bold'>Uiisii Hm 12 Super Bass Stereo In Ear-Phone</h1>
+                <p>Superior Sound Performance Compatible with all 3.5mm audio cable jackIn-ear earbud with ergonomic design make you feel comfortable.</p>
                 <button className="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded mt-8">Live demo</button>
                 
                 
             </div>
-            <div className='ml-80 mt-6'>
-                <img className='w-80 h-80' src={'/iphone.jpg'} alt="" />
+            <div className='mr-4 mt-6 '>
+                <img src={'/Headphone.jpg'} alt="" />
             </div>
             </div>
 
@@ -29,7 +29,7 @@ const navigation =useNavigate();
             <h1 className='font-bold text-2xl'>
                         Customer review ({updateReview.length})
                     </h1>
-                    <div className='grid grid-cols-3'>
+                    <div className='grid grid-cols-3 mt-20'>
                      {updateReview.map(review=> 
                      <div>
                          <div className='flex justify-center items-center mb-8'>
@@ -48,7 +48,8 @@ const navigation =useNavigate();
 
             </div>
             <div>
-            <button onClick={()=> navigation('/reviews')} className='font-medium text-2xl mb-8'>See all reviews</button>
+            <button onClick={()=> navigation('/reviews')}  className="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded mt-28 mb-80">See all Reviews</button>
+            
             </div>
         </div>
     );
