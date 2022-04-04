@@ -16,9 +16,8 @@ const Review = () => {
                         </div>
 
                         <div>
-                        <p className='ml-8 font-medium'>{comment.comment}</p> 
                         <p> <FontAwesomeIcon icon={faStar} /> {comment.rate}</p>
-
+                        <p className='ml-8 font-medium'>{comment.comment}</p> 
                         </div>
 
                     </div>
